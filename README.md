@@ -52,6 +52,12 @@ npm run dev
 
 ---
 
+🌐 Live Demo
+
+👉 https://decoria-ruby.vercel.app/
+
+---
+
 ## 📌 Key Learning Outcomes
 - Working with external APIs
 - Managing state in React
@@ -61,6 +67,3 @@ npm run dev
 
 ---
 
-## ⭐ Show Your Support
-
-If you like this project, please give it a ⭐ on GitHub!
