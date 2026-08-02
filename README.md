@@ -54,7 +54,7 @@ npm run dev
 
 🌐 Live Demo
 
-👉 https://decoria-ruby.vercel.app/
+👉 https://weather-pro-lovat.vercel.app/
 
 ---
 
